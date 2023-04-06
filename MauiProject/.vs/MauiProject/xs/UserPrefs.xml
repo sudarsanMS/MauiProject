@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{560C00D8-7784-4BEF-9B24-B78437C573FB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MauiProject PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MauiProject/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MauiProject/MainPage.xaml.cs" Line="15" Column="6" />
+      <File FileName="MauiProject/MainPage.xaml" Line="7" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiProject" expanded="True">
+            <Node name="MauiProject" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
